@@ -15,7 +15,7 @@
 
 This script is used to lock the mouse in the center of the screen and to move the camera with the camera to make a Fps Camera.
 
-To see the script click here [FpsCamera](./FpsCamera.cs).
+To see the script click here [FpsCamera](./Script/FpsCamera.cs).
 
 ---
 # FpsController
@@ -23,4 +23,4 @@ To see the script click here [FpsCamera](./FpsCamera.cs).
 this script is used to make move the player with basics transform.
 it is used too for make the player jump and to detect if the player is on the ground or no to cancel any action if he is in the air.
 
-To see the script click here [FpsController](./FpsController.cs).
+To see the script click here [FpsController](./Script/FpsController.cs).
